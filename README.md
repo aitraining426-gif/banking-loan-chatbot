@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏦 Banking Loan Underwriting & Credit Risk Assistant
 
 > An AI-powered banking chatbot built with prompt engineering, few-shot learning, chain-of-thought reasoning, structured JSON outputs, and guardrails.
@@ -281,3 +282,6 @@ MIT License — free to use and modify for educational purposes.
 ---
 
 *Built as a Week 1 AI Engineering project demonstrating prompt engineering, few-shot learning, chain-of-thought reasoning, structured outputs, and guardrails using the Anthropic Claude API.*
+=======
+# banking-loan-chatbot
+>>>>>>> a2675f12959a0e59f2ef5be33e4f32dd99d5eb33
